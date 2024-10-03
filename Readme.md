@@ -12,4 +12,4 @@ Vamos agora baixar uma imagem apenas para testar se tudo esta funcionando confor
 
 Após baixar a imagem para teste vamos executar a mesma com o comando: `docker run hello-world`
 
-![Resultado da execução do hello-world imagem do Docker](./aws+java+spring+bancodedados+docker/01.PNG)
+![Resultado da execução do hello-world imagem do Docker](./01.PNG)
